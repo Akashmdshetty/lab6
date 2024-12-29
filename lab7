@@ -1,0 +1,11 @@
+git tag v1.0
+git tag 
+git show v1.0
+git tag -l "v1.0"
+git clone url
+git fetch 
+git remote -v
+git remote add v1.0 url
+git push repo_name(tag)
+git push remote_repo_name (tag)
+git push url
