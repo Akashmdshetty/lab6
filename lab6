@@ -1,0 +1,9 @@
+git clone "url"
+cd repository name
+git fetrch
+git remote -v
+cd ..
+ls
+git push
+git remote add repo_name (url)
+git push repo_name
